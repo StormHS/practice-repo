@@ -1,0 +1,9 @@
+Practising:
+
+A - Apple
+B - Banana
+C - Cauliflower
+D - Dandelion 
+E - Elephants
+
+Apples and Bananas in a Cauliflower and Dandelion world get eaten by Elephants. 
